@@ -1,0 +1,6 @@
+{
+  "name": "Global Institute of Computer Science Naudero",
+  "description": "Official portal for Global Institute of Computer Science Naudero, Sindh, Pakistan. Admissions, CIT, DIT, courses, fee schedules, and campus information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
